@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** [24 October 2026]
+**Last updated:** 24 October 2026
 
 GoSakha Innovations LLP ("GoSakha", "we", "our" or "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose and protect personal information when you visit https://gosakhainnovations.com/ or use our products and services, including Sakha AI.
 
@@ -139,7 +139,7 @@ For privacy questions, complaints or requests, contact:
 
 **GoSakha Innovations LLP**  
 Website: https://gosakhainnovations.com/  
-Email: [Insert official privacy contact email]  
+Email: gosakhainnovations@gmail.com
 Address: 7-108/40 ayodhya nagar, balapur, hyderabad
 
 This Privacy Policy is intended to describe our actual privacy practices and should be finalised before publication.
